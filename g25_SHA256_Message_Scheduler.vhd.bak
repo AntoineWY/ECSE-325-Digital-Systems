@@ -1,0 +1,10 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+entity g25_SHA256_Message_Scheduler is
+ port (
+	M_i : in std_logic_vector(31 downto 0);
+	ld_i:	in std_logic;
+	Wt_o:	out std_logic_vector(31 downto 0)
+ );
+end g25_SHA256_Message_Scheduler

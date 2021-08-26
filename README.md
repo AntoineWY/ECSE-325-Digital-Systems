@@ -155,9 +155,9 @@ Then, 64 cycles after the calculation the hash result pop out in 8 cycles, 32-bi
 Course content by [Prof J.Clark](http://www.cim.mcgill.ca/~clark/) at McGill University  
 
 ## Contributors
-[Yujie Qin](yujie.qin@mail.mcgill.ca)
+Yujie Qin (yujie.qin@mail.mcgill.ca)
 
-[Yicheng Song](yicheng.song@mail.mcgill.ca)
+Yicheng Song (yicheng.song@mail.mcgill.ca)
 
-[Yinuo Wang](yinuo.wang@mail.mcgill.ca)
+Yinuo Wang (yinuo.wang@mail.mcgill.ca)
 

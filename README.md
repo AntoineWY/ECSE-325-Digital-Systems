@@ -152,5 +152,5 @@ Then, 64 cycles after the calculation the hash result pop out in 8 cycles, 32-bi
 ![test2](https://github.com/AntoineWY/ECSE-325-Digital-Systems/blob/main/diagrams/test_output_data_2.png)
 
 ## License
-Course content by [Prof.J.Clark](http://www.cim.mcgill.ca/~clark/) at McGill University  
+Course content by [Prof J.Clark](http://www.cim.mcgill.ca/~clark/) at McGill University  
 

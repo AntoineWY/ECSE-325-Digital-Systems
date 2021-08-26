@@ -156,6 +156,8 @@ Course content by [Prof J.Clark](http://www.cim.mcgill.ca/~clark/) at McGill Uni
 
 ## Contributors
 [Yujie Qin](yujie.qin@mail.mcgill.ca)
+
 [Yicheng Song](yicheng.song@mail.mcgill.ca)
+
 [Yinuo Wang](yinuo.wang@mail.mcgill.ca)
 
